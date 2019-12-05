@@ -84,18 +84,5 @@
                 "titulo":"El sensor XXX ha reportado un error en este componente. Revisar todos los elementos." }  
  ] 
   
-},
-  "490250466267":
-  {
-      "tagID":"490250466267",
-      "partNumber": "0017240000100",
-      "nrIncidencias": "1",
-     "incidencias":[ 
-                { "codigo":"INC001", 
-                "titulo":"Incidencia por bloqueo del elemento. Existe riesgo de perder información" },
-                { "codigo":"INC002", 
-                "titulo":"El sensor XXX ha reportado un error en este componente. Revisar todos los elementos." }  
- ] 
-  
 }
 }
