@@ -89,13 +89,6 @@
   {
       "tagID":"490250466267",
       "partNumber": "0017240000100",
-      "fabricante": "Texas Instrument",
-     "descripcion": "Equipo de prueba", 
-      "numSerie": "24536234",
-     "horasFunc": "346", 
-      "versFirmware": "2.112", 
-      "estado": "Mantenimiento",
-      "ubicacion": "Montado",
       "nrIncidencias": "1",
      "incidencias":[ 
                 { "codigo":"INC001", 
